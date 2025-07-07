@@ -22,7 +22,7 @@ Aquí puedes ver cómo luce MindFlow AI en acción:
 
 ¡Comienza a conversar y observa cómo MindFlow AI te entiende y responde con precisión!
 
-![Captura de pantalla de la interfaz principal del chat de MindFlow AI](assets/images/ChatUI-Agent.png)
+![Captura de pantalla de la interfaz principal del chat de MindFlow AI](./FrontEnd/assets/images/ChatUI-Agent.png)
 _Descripción: La interfaz principal del chat con mensajes de usuario y respuestas del asistente._
 
 
