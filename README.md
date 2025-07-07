@@ -45,8 +45,7 @@ Sigue estos pasos para poner en marcha MindFlow AI en tu máquina local:
 ### 1. Clona el Repositorio
 
 ```bash
-git clone [https://github.com/](https://github.com/)[Tu Nombre de Usuario/Organización]/[nombre-del-repositorio].git
-cd [nombre-del-repositorio]
+https://github.com/JUANJO-MDG/AI-Agent.git
 ```
 
 ## 2.Configuración del Entorno Virtual y Dependencias
